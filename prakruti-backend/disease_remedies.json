@@ -1,0 +1,2412 @@
+{
+  "Healthy": [
+    "Control Healthy effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Blast": [
+    "Control Rice Blast effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Brown_Spot": [
+    "Control Rice Brown Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Bacterial_Blight": [
+    "Control Rice Bacterial Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Hispa": [
+    "Control Rice Hispa effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Tungro": [
+    "Control Rice Tungro effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Sheath_Blight": [
+    "Control Rice Sheath Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_False_Smut": [
+    "Control Rice False Smut effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Bakanae": [
+    "Control Rice Bakanae effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Stem_Borer": [
+    "Control Rice Stem Borer effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Leaf_Folder": [
+    "Control Rice Leaf Folder effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Whorl_Maggot": [
+    "Control Rice Whorl Maggot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Gall_Midge": [
+    "Control Rice Gall Midge effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Planthoppers": [
+    "Control Rice Planthoppers effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rice_Aphids": [
+    "Control Rice Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Rust_Yellow": [
+    "Control Wheat Rust Yellow effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Rust_Brown": [
+    "Control Wheat Rust Brown effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Rust_Black": [
+    "Control Wheat Rust Black effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Loose_Smut": [
+    "Control Wheat Loose Smut effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Covered_Smut": [
+    "Control Wheat Covered Smut effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Powdery_Mildew": [
+    "Control Wheat Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Septoria_Blight": [
+    "Control Wheat Septoria Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Tan_Spot": [
+    "Control Wheat Tan Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Karnal_Bunt": [
+    "Control Wheat Karnal Bunt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Flag_Smut": [
+    "Control Wheat Flag Smut effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Foot_Rot": [
+    "Control Wheat Foot Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Take_All": [
+    "Control Wheat Take All effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Wheat_Eyespot": [
+    "Control Wheat Eyespot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Common_Rust": [
+    "Control Maize Common Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Southern_Rust": [
+    "Control Maize Southern Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Northern_Corn_Leaf_Blight": [
+    "Control Maize Northern Corn Leaf Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Gray_Leaf_Spot": [
+    "Control Maize Gray Leaf Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Common_Smut": [
+    "Control Maize Common Smut effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Head_Smut": [
+    "Control Maize Head Smut effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Downy_Mildew": [
+    "Control Maize Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Stewart_Wilt": [
+    "Control Maize Stewart Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Anthracnose": [
+    "Control Maize Anthracnose effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Maize_Diplodia_Ear_Rot": [
+    "Control Maize Diplodia Ear Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Bacterial_Blight": [
+    "Control Cotton Bacterial Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Fusarium_Wilt": [
+    "Control Cotton Fusarium Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Verticillium_Wilt": [
+    "Control Cotton Verticillium Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Alternaria_Blight": [
+    "Control Cotton Alternaria Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Powdery_Mildew": [
+    "Control Cotton Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Aphids": [
+    "Control Cotton Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Bollworms": [
+    "Control Cotton Bollworms effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Thrips": [
+    "Control Cotton Thrips effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Whitefly": [
+    "Control Cotton Whitefly effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Red_Spider_Mite": [
+    "Control Cotton Red Spider Mite effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_Pink_Bollworm": [
+    "Control Cotton Pink Bollworm effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cotton_American_Bollworm": [
+    "Control Cotton American Bollworm effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Red_Rot": [
+    "Control Sugarcane Red Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Smut": [
+    "Control Sugarcane Smut effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Wilt": [
+    "Control Sugarcane Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Rust": [
+    "Control Sugarcane Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Mosaic_Virus": [
+    "Control Sugarcane Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Yellow_Leaf_Virus": [
+    "Control Sugarcane Yellow Leaf Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Ratoon_Stunting_Disease": [
+    "Control Sugarcane Ratoon Stunting Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Ring_Spot": [
+    "Control Sugarcane Ring Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Pineapple_Disease": [
+    "Control Sugarcane Pineapple Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Top_Rot": [
+    "Control Sugarcane Top Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Early_Shoot_Borer": [
+    "Control Sugarcane Early Shoot Borer effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sugarcane_Internode_Borer": [
+    "Control Sugarcane Internode Borer effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Early_Blight": [
+    "Control Potato Early Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Late_Blight": [
+    "Control Potato Late Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Common_Scab": [
+    "Control Potato Common Scab effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Black_Scurf": [
+    "Control Potato Black Scurf effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Soft_Rot": [
+    "Control Potato Soft Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Ring_Rot": [
+    "Control Potato Ring Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Mosaic_Virus": [
+    "Control Potato Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Leaf_Roll_Virus": [
+    "Control Potato Leaf Roll Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Spindle_Tuber_Viroid": [
+    "Control Potato Spindle Tuber Viroid effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Colorado_Beetle": [
+    "Control Potato Colorado Beetle effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Potato_Aphids": [
+    "Control Potato Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Early_Blight": [
+    "Control Tomato Early Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Late_Blight": [
+    "Control Tomato Late Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Bacterial_Spot": [
+    "Control Tomato Bacterial Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Bacterial_Canker": [
+    "Control Tomato Bacterial Canker effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Fusarium_Wilt": [
+    "Control Tomato Fusarium Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Verticillium_Wilt": [
+    "Control Tomato Verticillium Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Mosaic_Virus": [
+    "Control Tomato Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Yellow_Leaf_Curl_Virus": [
+    "Control Tomato Yellow Leaf Curl Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Spotted_Wilt_Virus": [
+    "Control Tomato Spotted Wilt Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Leaf_Mold": [
+    "Control Tomato Leaf Mold effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Anthracnose": [
+    "Control Tomato Anthracnose effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Blossom_End_Rot": [
+    "Control Tomato Blossom End Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Target_Spot": [
+    "Remove infected leaves immediately to prevent spread",
+    "Apply copper-based fungicides as preventive treatment",
+    "Ensure proper air circulation between plants",
+    "Avoid overhead watering - use drip irrigation",
+    "Practice crop rotation with non-solanaceous crops",
+    "Use disease-resistant tomato varieties when available",
+    "Apply mulch to prevent soil-borne spore splash",
+    "Monitor plants regularly during humid conditions"
+  ],
+  "Tomato_Hornworms": [
+    "Control Tomato Hornworms effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Whitefly": [
+    "Control Tomato Whitefly effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tomato_Aphids": [
+    "Control Tomato Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Purple_Blotch": [
+    "Control Onion Purple Blotch effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Stemphylium_Blight": [
+    "Control Onion Stemphylium Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Downy_Mildew": [
+    "Control Onion Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Bacterial_Soft_Rot": [
+    "Control Onion Bacterial Soft Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Neck_Rot": [
+    "Control Onion Neck Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Black_Mold": [
+    "Control Onion Black Mold effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Thrips": [
+    "Control Onion Thrips effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Onion_Maggots": [
+    "Control Onion Maggots effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cabbage_Black_Rot": [
+    "Control Cabbage Black Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cabbage_Clubroot": [
+    "Control Cabbage Clubroot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cabbage_Downy_Mildew": [
+    "Control Cabbage Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cabbage_Alternaria_Blight": [
+    "Control Cabbage Alternaria Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cabbage_Aphids": [
+    "Control Cabbage Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cabbage_Loopers": [
+    "Control Cabbage Loopers effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cabbage_Diamondback_Moth": [
+    "Control Cabbage Diamondback Moth effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cauliflower_Black_Rot": [
+    "Control Cauliflower Black Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cauliflower_Downy_Mildew": [
+    "Control Cauliflower Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cauliflower_Clubroot": [
+    "Control Cauliflower Clubroot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Brinjal_Bacterial_Wilt": [
+    "Control Brinjal Bacterial Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Brinjal_Little_Leaf": [
+    "Control Brinjal Little Leaf effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Brinjal_Mosaic_Virus": [
+    "Control Brinjal Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Brinjal_Fruit_Borer": [
+    "Control Brinjal Fruit Borer effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Brinjal_Shoot_Borer": [
+    "Control Brinjal Shoot Borer effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Okra_Yellow_Vein_Mosaic_Virus": [
+    "Control Okra Yellow Vein Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Okra_Powdery_Mildew": [
+    "Control Okra Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Okra_Cercospora_Leaf_Spot": [
+    "Control Okra Cercospora Leaf Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Okra_Aphids": [
+    "Control Okra Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Okra_Jassids": [
+    "Control Okra Jassids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chili_Bacterial_Spot": [
+    "Control Chili Bacterial Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chili_Anthracnose": [
+    "Control Chili Anthracnose effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chili_Powdery_Mildew": [
+    "Control Chili Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chili_Leaf_Curl_Virus": [
+    "Control Chili Leaf Curl Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chili_Mosaic_Virus": [
+    "Control Chili Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chili_Thrips": [
+    "Control Chili Thrips effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chili_Aphids": [
+    "Control Chili Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Rust": [
+    "Control Groundnut Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Tikka_Disease": [
+    "Control Groundnut Tikka Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Collar_Rot": [
+    "Control Groundnut Collar Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Stem_Rot": [
+    "Control Groundnut Stem Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Bud_Necrosis_Virus": [
+    "Control Groundnut Bud Necrosis Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Rosette_Virus": [
+    "Control Groundnut Rosette Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Aphids": [
+    "Control Groundnut Aphids effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Groundnut_Thrips": [
+    "Control Groundnut Thrips effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Soybean_Rust": [
+    "Control Soybean Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Soybean_Bacterial_Blight": [
+    "Control Soybean Bacterial Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Soybean_Charcoal_Rot": [
+    "Control Soybean Charcoal Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Soybean_Frogeye_Leaf_Spot": [
+    "Control Soybean Frogeye Leaf Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Soybean_Mosaic_Virus": [
+    "Control Soybean Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Soybean_Cyst_Nematode": [
+    "Control Soybean Cyst Nematode effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sunflower_Rust": [
+    "Control Sunflower Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sunflower_Alternaria_Blight": [
+    "Control Sunflower Alternaria Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sunflower_Charcoal_Rot": [
+    "Control Sunflower Charcoal Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sunflower_Downy_Mildew": [
+    "Control Sunflower Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sunflower_Head_Rot": [
+    "Control Sunflower Head Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Banana_Black_Sigatoka": [
+    "Control Banana Black Sigatoka effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Banana_Yellow_Sigatoka": [
+    "Control Banana Yellow Sigatoka effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Banana_Panama_Disease": [
+    "Control Banana Panama Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Banana_Bacterial_Wilt": [
+    "Control Banana Bacterial Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Banana_Bunchy_Top_Virus": [
+    "Control Banana Bunchy Top Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Banana_Mosaic_Virus": [
+    "Control Banana Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mango_Anthracnose": [
+    "Control Mango Anthracnose effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mango_Powdery_Mildew": [
+    "Control Mango Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mango_Bacterial_Canker": [
+    "Control Mango Bacterial Canker effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mango_Malformation": [
+    "Control Mango Malformation effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mango_Hoppers": [
+    "Control Mango Hoppers effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Grape_Downy_Mildew": [
+    "Control Grape Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Grape_Powdery_Mildew": [
+    "Control Grape Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Grape_Anthracnose": [
+    "Control Grape Anthracnose effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Grape_Black_Rot": [
+    "Control Grape Black Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Apple_Scab": [
+    "Control Apple Scab effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Apple_Fire_Blight": [
+    "Control Apple Fire Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Apple_Powdery_Mildew": [
+    "Control Apple Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Apple_Cedar_Rust": [
+    "Control Apple Cedar Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Citrus_Canker": [
+    "Control Citrus Canker effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Citrus_Tristeza_Virus": [
+    "Control Citrus Tristeza Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Citrus_Greening_Disease": [
+    "Control Citrus Greening Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Citrus_Black_Spot": [
+    "Control Citrus Black Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coconut_Lethal_Yellowing": [
+    "Control Coconut Lethal Yellowing effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coconut_Bud_Rot": [
+    "Control Coconut Bud Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coconut_Leaf_Spot": [
+    "Control Coconut Leaf Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coconut_Rhinoceros_Beetle": [
+    "Control Coconut Rhinoceros Beetle effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tea_Blister_Blight": [
+    "Control Tea Blister Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tea_Grey_Blight": [
+    "Control Tea Grey Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Tea_Red_Rust": [
+    "Control Tea Red Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coffee_Leaf_Rust": [
+    "Control Coffee Leaf Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coffee_Berry_Disease": [
+    "Control Coffee Berry Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coffee_White_Stem_Borer": [
+    "Control Coffee White Stem Borer effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cardamom_Capsule_Rot": [
+    "Control Cardamom Capsule Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cardamom_Mosaic_Virus": [
+    "Control Cardamom Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Turmeric_Rhizome_Rot": [
+    "Control Turmeric Rhizome Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Turmeric_Leaf_Spot": [
+    "Control Turmeric Leaf Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Black_Pepper_Foot_Rot": [
+    "Control Black Pepper Foot Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Black_Pepper_Slow_Wilt": [
+    "Control Black Pepper Slow Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Ginger_Rhizome_Rot": [
+    "Control Ginger Rhizome Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Ginger_Bacterial_Wilt": [
+    "Control Ginger Bacterial Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coriander_Powdery_Mildew": [
+    "Control Coriander Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Coriander_Stem_Gall": [
+    "Control Coriander Stem Gall effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cumin_Blight": [
+    "Control Cumin Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cumin_Wilt": [
+    "Control Cumin Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Fenugreek_Powdery_Mildew": [
+    "Control Fenugreek Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Fenugreek_Downy_Mildew": [
+    "Control Fenugreek Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mustard_Alternaria_Blight": [
+    "Control Mustard Alternaria Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mustard_White_Rust": [
+    "Control Mustard White Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Mustard_Downy_Mildew": [
+    "Control Mustard Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sesame_Phyllody": [
+    "Control Sesame Phyllody effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sesame_Bacterial_Blight": [
+    "Control Sesame Bacterial Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Castor_Gray_Mold": [
+    "Control Castor Gray Mold effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Castor_Bacterial_Leaf_Spot": [
+    "Control Castor Bacterial Leaf Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Jute_Stem_Rot": [
+    "Control Jute Stem Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Jute_Anthracnose": [
+    "Control Jute Anthracnose effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Barley_Net_Blotch": [
+    "Control Barley Net Blotch effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Barley_Powdery_Mildew": [
+    "Control Barley Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Barley_Stripe_Rust": [
+    "Control Barley Stripe Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Oats_Crown_Rust": [
+    "Control Oats Crown Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Oats_Stem_Rust": [
+    "Control Oats Stem Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Millets_Blast": [
+    "Control Millets Blast effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Millets_Downy_Mildew": [
+    "Control Millets Downy Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Millets_Ergot": [
+    "Control Millets Ergot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sorghum_Grain_Mold": [
+    "Control Sorghum Grain Mold effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sorghum_Anthracnose": [
+    "Control Sorghum Anthracnose effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Sorghum_Charcoal_Rot": [
+    "Control Sorghum Charcoal Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chickpea_Wilt": [
+    "Control Chickpea Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chickpea_Blight": [
+    "Control Chickpea Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Chickpea_Root_Rot": [
+    "Control Chickpea Root Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Lentil_Rust": [
+    "Control Lentil Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Lentil_Blight": [
+    "Control Lentil Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Fieldpea_Powdery_Mildew": [
+    "Control Fieldpea Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Fieldpea_Rust": [
+    "Control Fieldpea Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Pigeonpea_Wilt": [
+    "Control Pigeonpea Wilt effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Pigeonpea_Sterility_Mosaic_Virus": [
+    "Control Pigeonpea Sterility Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Blackgram_Yellow_Mosaic_Virus": [
+    "Control Blackgram Yellow Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Blackgram_Leaf_Crinkle_Virus": [
+    "Control Blackgram Leaf Crinkle Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Greengram_Yellow_Mosaic_Virus": [
+    "Control Greengram Yellow Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Greengram_Cercospora_Leaf_Spot": [
+    "Control Greengram Cercospora Leaf Spot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cowpea_Mosaic_Virus": [
+    "Control Cowpea Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Cowpea_Aphid_Borne_Mosaic_Virus": [
+    "Control Cowpea Aphid Borne Mosaic Virus effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Horsegram_Rust": [
+    "Control Horsegram Rust effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Horsegram_Powdery_Mildew": [
+    "Control Horsegram Powdery Mildew effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Areca_Nut_Fruit_Rot": [
+    "Control Areca Nut Fruit Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Areca_Nut_Bud_Rot": [
+    "Control Areca Nut Bud Rot effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rubber_South_American_Leaf_Blight": [
+    "Control Rubber South American Leaf Blight effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Rubber_Pink_Disease": [
+    "Control Rubber Pink Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Oil_Palm_Blast_Disease": [
+    "Control Oil Palm Blast Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Oil_Palm_Crown_Disease": [
+    "Control Oil Palm Crown Disease effectively",
+    "Apply appropriate fungicides/pesticides as recommended",
+    "Use disease-resistant varieties when available",
+    "Maintain proper field sanitation and hygiene",
+    "Practice crop rotation with suitable non-host crops",
+    "Monitor crops regularly for early detection",
+    "Follow integrated pest and disease management",
+    "Ensure balanced nutrition and proper irrigation"
+  ],
+  "Carrot_Cavity_Spot": [
+    "Consult local agricultural extension officer for specific treatment",
+    "Remove infected plant parts immediately",
+    "Apply appropriate fungicide as recommended by experts",
+    "Ensure proper plant spacing and air circulation",
+    "Practice good field sanitation and hygiene",
+    "Use certified disease-free seeds and plants",
+    "Implement integrated pest management practices",
+    "Monitor plants regularly for early detection"
+  ],
+  "Carrot_Leaf_Blight": [
+    "Consult local agricultural extension officer for specific treatment",
+    "Remove infected plant parts immediately",
+    "Apply appropriate fungicide as recommended by experts",
+    "Ensure proper plant spacing and air circulation",
+    "Practice good field sanitation and hygiene",
+    "Use certified disease-free seeds and plants",
+    "Implement integrated pest management practices",
+    "Monitor plants regularly for early detection"
+  ],
+  "Cucumber_Mosaic_Virus": [
+    "Consult local agricultural extension officer for specific treatment",
+    "Remove infected plant parts immediately",
+    "Apply appropriate fungicide as recommended by experts",
+    "Ensure proper plant spacing and air circulation",
+    "Practice good field sanitation and hygiene",
+    "Use certified disease-free seeds and plants",
+    "Implement integrated pest management practices",
+    "Monitor plants regularly for early detection"
+  ],
+  "Pepper_Blight": [
+    "Consult local agricultural extension officer for specific treatment",
+    "Remove infected plant parts immediately",
+    "Apply appropriate fungicide as recommended by experts",
+    "Ensure proper plant spacing and air circulation",
+    "Practice good field sanitation and hygiene",
+    "Use certified disease-free seeds and plants",
+    "Implement integrated pest management practices",
+    "Monitor plants regularly for early detection"
+  ],
+  "Spinach_Downy_Mildew": [
+    "Consult local agricultural extension officer for specific treatment",
+    "Remove infected plant parts immediately",
+    "Apply appropriate fungicide as recommended by experts",
+    "Ensure proper plant spacing and air circulation",
+    "Practice good field sanitation and hygiene",
+    "Use certified disease-free seeds and plants",
+    "Implement integrated pest management practices",
+    "Monitor plants regularly for early detection"
+  ],
+  "Lettuce_Drop": [
+    "Consult local agricultural extension officer for specific treatment",
+    "Remove infected plant parts immediately",
+    "Apply appropriate fungicide as recommended by experts",
+    "Ensure proper plant spacing and air circulation",
+    "Practice good field sanitation and hygiene",
+    "Use certified disease-free seeds and plants",
+    "Implement integrated pest management practices",
+    "Monitor plants regularly for early detection"
+  ],
+  "Papaya_Leaf_Curl": [
+    "Remove affected leaves showing curl symptoms immediately",
+    "Apply neem oil spray (2-3 ml per liter water) every 10 days",
+    "Use reflective mulch to repel aphids that transmit the virus",
+    "Spray with imidacloprid 17.8% SL @ 0.3ml/liter to control vectors",
+    "Maintain field hygiene by removing weeds that harbor pests",
+    "Use yellow sticky traps to monitor and control whiteflies",
+    "Apply balanced fertilizer with micronutrients to strengthen plants",
+    "Ensure proper spacing between plants for good air circulation"
+  ],
+  "Jowar_Downy_Mildew": [
+    "Treat seeds with metalaxyl @ 6g/kg seed before sowing",
+    "Apply foliar spray of metalaxyl + mancozeb @ 2.5g/liter water",
+    "Use resistant varieties like CSH-16, CSH-23, or SPH-1638",
+    "Avoid early morning irrigation to reduce humidity",
+    "Remove and destroy infected plants immediately",
+    "Apply phosphonates @ 2.5ml/liter water as preventive spray",
+    "Ensure proper field drainage to avoid waterlogging",
+    "Follow crop rotation with non-host crops like cotton or legumes"
+  ]
+}

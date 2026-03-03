@@ -1,0 +1,242 @@
+{
+  "crop_info": {
+    "Rice": {
+      "scientific_name": "Oryza sativa",
+      "family": "Poaceae",
+      "major_states": ["West Bengal", "Uttar Pradesh", "Punjab", "Andhra Pradesh", "Tamil Nadu"],
+      "seasons": ["Kharif", "Rabi"],
+      "varieties": {
+        "high_yielding": ["IR-64", "Swarna", "BPT-5204", "MTU-7029"],
+        "aromatic": ["Basmati 370", "Pusa Basmati-1", "Taraori Basmati"],
+        "disease_resistant": ["Samba Mahsuri", "Improved White Ponni", "Swarna-Sub1"]
+      },
+      "common_diseases": ["Rice_Blast", "Rice_Brown_Spot", "Rice_Bacterial_Blight"],
+      "optimal_conditions": {
+        "temperature": "20-35°C",
+        "rainfall": "1000-2000mm",
+        "soil_ph": "5.5-7.0",
+        "soil_type": "Clay loam"
+      },
+      "fertilizer_schedule": {
+        "basal": "NPK 20:10:10 @ 125 kg/ha",
+        "top_dressing": "Urea @ 65 kg/ha at tillering and panicle initiation"
+      }
+    },
+    
+    "Wheat": {
+      "scientific_name": "Triticum aestivum",
+      "family": "Poaceae", 
+      "major_states": ["Uttar Pradesh", "Punjab", "Haryana", "Madhya Pradesh", "Rajasthan"],
+      "seasons": ["Rabi"],
+      "varieties": {
+        "high_yielding": ["HD-2967", "WH-147", "HD-2888", "DBW-88"],
+        "disease_resistant": ["HD-3086", "WH-1105", "PBW-725"],
+        "drought_tolerant": ["HD-2009", "Raj-4079"]
+      },
+      "common_diseases": ["Wheat_Rust_Yellow", "Wheat_Rust_Brown", "Wheat_Rust_Black"],
+      "optimal_conditions": {
+        "temperature": "15-25°C",
+        "rainfall": "300-1000mm", 
+        "soil_ph": "6.0-7.5",
+        "soil_type": "Well-drained loamy"
+      }
+    },
+
+    "Cotton": {
+      "scientific_name": "Gossypium hirsutum",
+      "family": "Malvaceae",
+      "major_states": ["Gujarat", "Maharashtra", "Andhra Pradesh", "Karnataka", "Punjab"],
+      "seasons": ["Kharif"],
+      "varieties": {
+        "bt_cotton": ["Bollgard-II", "RCH-134 BG-II", "MRC-7017 BG-II"],
+        "non_bt": ["Suraj", "MCU-5", "DCH-32"],
+        "disease_resistant": ["Suvin", "DCH-32"]
+      },
+      "common_diseases": ["Cotton_Bacterial_Blight", "Cotton_Fusarium_Wilt"],
+      "optimal_conditions": {
+        "temperature": "21-30°C",
+        "rainfall": "500-1250mm",
+        "soil_ph": "5.8-8.0",
+        "soil_type": "Deep, well-drained black cotton soil"
+      }
+    },
+
+    "Sugarcane": {
+      "scientific_name": "Saccharum officinarum",
+      "family": "Poaceae",
+      "major_states": ["Uttar Pradesh", "Maharashtra", "Karnataka", "Tamil Nadu", "Gujarat"],
+      "seasons": ["Year-round"],
+      "varieties": {
+        "high_yielding": ["Co-238", "Co-62175", "Co-86032", "Co-94012"],
+        "disease_resistant": ["Co-238", "Co-62175"],
+        "drought_tolerant": ["Co-86032"]
+      },
+      "common_diseases": ["Sugarcane_Red_Rot", "Sugarcane_Smut"],
+      "optimal_conditions": {
+        "temperature": "26-32°C",
+        "rainfall": "1500-2500mm",
+        "soil_ph": "6.0-7.5",
+        "soil_type": "Deep, fertile, well-drained"
+      }
+    },
+
+    "Tomato": {
+      "scientific_name": "Solanum lycopersicum",
+      "family": "Solanaceae",
+      "major_states": ["Karnataka", "Andhra Pradesh", "Madhya Pradesh", "Gujarat", "Odisha"],
+      "seasons": ["Kharif", "Rabi", "Summer"],
+      "varieties": {
+        "hybrid": ["Arka Rakshak", "Arka Samrat", "Naveen-2000+"],
+        "open_pollinated": ["Pusa Ruby", "Arka Vikas", "Punjab Chhuhara"],
+        "disease_resistant": ["Arka Abha", "Arka Alok"]
+      },
+      "common_diseases": ["Tomato_Early_blight", "Tomato_Late_blight", "Tomato_Bacterial_spot"],
+      "optimal_conditions": {
+        "temperature": "20-25°C",
+        "rainfall": "600-1250mm",
+        "soil_ph": "6.0-7.0",
+        "soil_type": "Well-drained sandy loam"
+      }
+    },
+
+    "Potato": {
+      "scientific_name": "Solanum tuberosum", 
+      "family": "Solanaceae",
+      "major_states": ["Uttar Pradesh", "Punjab", "Bihar", "Gujarat", "Madhya Pradesh"],
+      "seasons": ["Rabi"],
+      "varieties": {
+        "processing": ["Kufri Chipsona-1", "Kufri Chipsona-2", "Kufri Frysona"],
+        "table": ["Kufri Pukhraj", "Kufri Jyoti", "Kufri Bahar"],
+        "disease_resistant": ["Kufri Jyoti", "Kufri Lima"]
+      },
+      "common_diseases": ["Potato_Late_Blight", "Potato_Early_Blight"],
+      "optimal_conditions": {
+        "temperature": "15-25°C",
+        "rainfall": "500-700mm",
+        "soil_ph": "5.2-6.4",
+        "soil_type": "Well-drained sandy loam"
+      }
+    },
+
+    "Maize": {
+      "scientific_name": "Zea mays",
+      "family": "Poaceae",
+      "major_states": ["Madhya Pradesh", "Uttar Pradesh", "Bihar", "Rajasthan", "Maharashtra"],
+      "seasons": ["Kharif", "Rabi"],
+      "varieties": {
+        "hybrid": ["DHM-117", "HQPM-1", "DHM-121", "Vivek QPM-9"],
+        "composite": ["Amber", "Kisan", "Sartaj"],
+        "sweet_corn": ["Sugar-75", "Madhuri"]
+      },
+      "common_diseases": ["Maize_Common_Rust", "Maize_Northern_Leaf_Blight"],
+      "optimal_conditions": {
+        "temperature": "21-27°C",
+        "rainfall": "500-750mm",
+        "soil_ph": "5.8-7.0",
+        "soil_type": "Well-drained fertile loam"
+      }
+    },
+
+    "Chili": {
+      "scientific_name": "Capsicum annuum",
+      "family": "Solanaceae", 
+      "major_states": ["Andhra Pradesh", "Karnataka", "Maharashtra", "Gujarat", "Rajasthan"],
+      "seasons": ["Kharif", "Rabi"],
+      "varieties": {
+        "hot": ["Pusa Jwala", "Arka Lohit", "G-4"],
+        "mild": ["California Wonder", "Bharat"],
+        "disease_resistant": ["Pusa Sadabahar", "Arka Lohit"]
+      },
+      "common_diseases": ["Chili_Leaf_Curl", "Chili_Anthracnose"],
+      "optimal_conditions": {
+        "temperature": "20-30°C",
+        "rainfall": "600-1250mm",
+        "soil_ph": "6.0-7.0",
+        "soil_type": "Well-drained sandy loam"
+      }
+    },
+
+    "Onion": {
+      "scientific_name": "Allium cepa",
+      "family": "Amaryllidaceae",
+      "major_states": ["Maharashtra", "Gujarat", "Madhya Pradesh", "Karnataka", "Rajasthan"],
+      "seasons": ["Kharif", "Rabi"],
+      "varieties": {
+        "red": ["Agrifound Light Red", "N-53", "Arka Kalyan"],
+        "white": ["Pusa White Flat", "Agrifound White"],
+        "yellow": ["Pusa Ratnar", "Pusa Madhavi"]
+      },
+      "common_diseases": ["Onion_Purple_Blotch"],
+      "optimal_conditions": {
+        "temperature": "15-25°C",
+        "rainfall": "650-750mm",
+        "soil_ph": "6.0-7.5",
+        "soil_type": "Well-drained sandy loam"
+      }
+    },
+
+    "Mango": {
+      "scientific_name": "Mangifera indica",
+      "family": "Anacardiaceae",
+      "major_states": ["Uttar Pradesh", "Andhra Pradesh", "Karnataka", "Gujarat", "Bihar"],
+      "seasons": ["Perennial (fruiting: March-July)"],
+      "varieties": {
+        "commercial": ["Alphonso", "Kesar", "Banganapalli", "Himsagar"],
+        "processing": ["Totapuri", "Neelam", "Sindhu"],
+        "export": ["Alphonso", "Kesar", "Banganapalli"]
+      },
+      "common_diseases": ["Mango_Anthracnose"],
+      "optimal_conditions": {
+        "temperature": "24-30°C",
+        "rainfall": "750-2500mm",
+        "soil_ph": "5.5-7.5",
+        "soil_type": "Deep, well-drained sandy loam"
+      }
+    }
+  },
+
+  "disease_symptoms": {
+    "Rice_Blast": {
+      "leaf_symptoms": "Spindle-shaped lesions with brown borders and gray centers",
+      "neck_symptoms": "Black lesions on neck causing lodging",
+      "panicle_symptoms": "Bleaching of entire panicle"
+    },
+    "Wheat_Rust_Yellow": {
+      "leaf_symptoms": "Yellow pustules arranged in stripes on leaves",
+      "stem_symptoms": "Yellow to orange pustules on stem",
+      "grain_symptoms": "Shriveled grains with reduced weight"
+    },
+    "Cotton_Bacterial_Blight": {
+      "leaf_symptoms": "Angular water-soaked lesions turning brown",
+      "boll_symptoms": "Black spots on bolls leading to premature opening",
+      "stem_symptoms": "Black streaks in vascular system"
+    }
+  },
+
+  "preventive_measures": {
+    "field_sanitation": [
+      "Remove crop residues after harvest",
+      "Deep plowing during summer",
+      "Weed control to eliminate alternate hosts",
+      "Proper drainage to avoid waterlogging"
+    ],
+    "seed_treatment": [
+      "Use certified disease-free seeds",
+      "Treat seeds with recommended fungicides/bactericides",
+      "Hot water treatment for specific diseases",
+      "Bio-agent seed treatment"
+    ],
+    "crop_rotation": [
+      "Rotate with non-host crops",
+      "Include legumes in rotation for nitrogen fixation",
+      "Avoid continuous monocropping",
+      "Follow recommended rotation cycles"
+    ],
+    "resistant_varieties": [
+      "Use locally adapted resistant varieties",
+      "Replace varieties showing breakdown of resistance",
+      "Grow variety mixtures when appropriate",
+      "Monitor for new pathogen races"
+    ]
+  }
+}

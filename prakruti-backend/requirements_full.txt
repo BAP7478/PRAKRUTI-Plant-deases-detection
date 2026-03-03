@@ -1,0 +1,30 @@
+# ESSENTIAL DEPENDENCIES ONLY - Lightweight Setup
+
+# Core FastAPI and server (essential)
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Image processing and ML (essential)
+Pillow==10.1.0
+tensorflow==2.18.0
+numpy==1.24.3
+
+# Configuration (essential)
+pydantic-settings==2.1.0
+pydantic==2.5.0
+
+# HTTP Requests for Weather API (required for real weather data)
+requests==2.31.0
+aiohttp==3.9.1
+
+# Environment variables (required for configuration)
+python-dotenv==1.0.0
+
+# Optional - Install only if needed:
+# opencv-python==4.8.1.78  # For advanced image processing
+# scikit-learn==1.3.2      # For additional ML features
+# albumentations==1.3.1    # For data augmentation
+# matplotlib==3.8.2        # For visualization
+# pandas==2.1.4            # For data analysis
+# gunicorn==21.2.0         # For production deployment
