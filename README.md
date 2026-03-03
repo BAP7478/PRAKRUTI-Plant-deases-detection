@@ -359,7 +359,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
   <img src="https://github.com/BAP7478.png" width="100" height="100" style="border-radius: 50%;">
 </p>
 
-<h3 align="center">Bhargav Patel</h3>
+<h3 align="center">Bhargav Parmar</h3>
 <p align="center">
   <a href="https://github.com/BAP7478">
     <img src="https://img.shields.io/badge/GitHub-BAP7478-181717?style=for-the-badge&logo=github" alt="GitHub">
